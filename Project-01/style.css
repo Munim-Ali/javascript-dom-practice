@@ -1,0 +1,23 @@
+
+.button{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 0px 20px;
+    border: 5px solid black;
+    cursor: pointer;
+    
+    
+}
+#gray{
+    background-color: gray;
+}
+#lightgreen{
+    background-color: lightgreen;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
